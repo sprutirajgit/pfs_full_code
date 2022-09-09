@@ -1,0 +1,14 @@
+Sep 09, 2022 11:13:28 AM pfs2.Student main
+INFO: A message logged to the file
+Sep 09, 2022 11:13:30 AM pfs2.Student initDriver
+INFO: Testing portal:https://portal-dev.ken42.com
+Sep 09, 2022 11:13:30 AM pfs2.Student initDriver
+INFO: Testing for:student
+Sep 09, 2022 11:13:32 AM pfs2.Student login
+INFO: Login test case with emailId: anand.rathi@ken42.com
+Sep 09, 2022 11:13:32 AM pfs2.Student login
+INFO: Login test case with emailId: anand.rathi@ken42.com
+Sep 09, 2022 11:13:59 AM pfs2.Student testStudent
+INFO: ####Starting Home tab test case executation###
+Sep 09, 2022 11:14:01 AM pfs2.Student testStudent
+INFO: $$$$ Home tab test case PASSED.. $$$$
